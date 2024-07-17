@@ -8,7 +8,8 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-		//MainPage = new DashboardPage();
-		MainPage = new TransactionsPage();
+		MainPage = new DashboardPage();
+		//MainPage = new TransactionsPage();
+		//MainPage = new StatisticsPage();
 	}
 }

@@ -155,3 +155,7 @@ maui.aar
 Microsoft.Maui.aar
 Microsoft.Maui.Essentials.aar
 Xamarin.Google.Crypto.Tink.Android.aar
+Syncfusion.Maui.Charts.dll
+Syncfusion.Maui.Core.dll
+Syncfusion.Maui.Charts.aar
+Syncfusion.Maui.Core.aar

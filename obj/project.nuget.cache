@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+sYbPDtVjcVulMe+DVnTvzbt2yrf1QiMOjwjvjv2XPd3n0dbx2EqOnyX0iJYKhe2orA4WHS4lGA/r0PmHL8wvw==",
+  "dgSpecHash": "+zPpnrqVQv9dpv5WMHzfOt3ydLpkkQ4yIGKL6noCDutWmd9/dth4zPNRi9rleJ8JSUJ9gDxuPCO0Eq/UqL+FfQ==",
   "success": true,
   "projectFilePath": "/Users/aarlic/Documents/src/ProsperDaily/ProsperDaily.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,9 @@
     "/Users/aarlic/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/aarlic/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/aarlic/.nuget/packages/microsoft.maui.graphics/7.0.101/microsoft.maui.graphics.7.0.101.nupkg.sha512",
+    "/Users/aarlic/.nuget/packages/syncfusion.licensing/26.1.42/syncfusion.licensing.26.1.42.nupkg.sha512",
+    "/Users/aarlic/.nuget/packages/syncfusion.maui.charts/26.1.42/syncfusion.maui.charts.26.1.42.nupkg.sha512",
+    "/Users/aarlic/.nuget/packages/syncfusion.maui.core/26.1.42/syncfusion.maui.core.26.1.42.nupkg.sha512",
     "/Users/aarlic/.nuget/packages/xamarin.android.glide/4.13.2.2/xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "/Users/aarlic/.nuget/packages/xamarin.android.glide.annotations/4.13.2.2/xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "/Users/aarlic/.nuget/packages/xamarin.android.glide.disklrucache/4.13.2.2/xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",
