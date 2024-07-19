@@ -1,4 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
+using ProsperDaily.MVVM.Models;
+using ProsperDaily.Repositories;
 using Syncfusion.Maui.Core.Hosting;
 
 namespace ProsperDaily;
@@ -21,6 +23,8 @@ public static class MauiProgram
 		builder.Logging.AddDebug();
 #endif
 
+		builder.Services.AddSingleton<BaseRepository<Transaction>>();
+		
 		return builder.Build();
 	}
 }

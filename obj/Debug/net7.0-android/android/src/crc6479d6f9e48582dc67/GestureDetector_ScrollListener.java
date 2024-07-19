@@ -12,10 +12,8 @@ public class GestureDetector_ScrollListener
 		__md_methods = 
 			"n_onDoubleTap:(Landroid/view/MotionEvent;)Z:GetOnDoubleTap_Landroid_view_MotionEvent_Handler\n" +
 			"n_onLongPress:(Landroid/view/MotionEvent;)V:GetOnLongPress_Landroid_view_MotionEvent_Handler\n" +
-			"n_onSingleTapConfirmed:(Landroid/view/MotionEvent;)Z:GetOnSingleTapConfirmed_Landroid_view_MotionEvent_Handler\n" +
 			"n_onSingleTapUp:(Landroid/view/MotionEvent;)Z:GetOnSingleTapUp_Landroid_view_MotionEvent_Handler\n" +
 			"n_onScroll:(Landroid/view/MotionEvent;Landroid/view/MotionEvent;FF)Z:GetOnScroll_Landroid_view_MotionEvent_Landroid_view_MotionEvent_FFHandler\n" +
-			"n_onFling:(Landroid/view/MotionEvent;Landroid/view/MotionEvent;FF)Z:GetOnFling_Landroid_view_MotionEvent_Landroid_view_MotionEvent_FFHandler\n" +
 			"";
 		mono.android.Runtime.register ("Syncfusion.Maui.Core.Internals.GestureDetector+ScrollListener, Syncfusion.Maui.Core", GestureDetector_ScrollListener.class, __md_methods);
 	}
@@ -46,14 +44,6 @@ public class GestureDetector_ScrollListener
 	private native void n_onLongPress (android.view.MotionEvent p0);
 
 
-	public boolean onSingleTapConfirmed (android.view.MotionEvent p0)
-	{
-		return n_onSingleTapConfirmed (p0);
-	}
-
-	private native boolean n_onSingleTapConfirmed (android.view.MotionEvent p0);
-
-
 	public boolean onSingleTapUp (android.view.MotionEvent p0)
 	{
 		return n_onSingleTapUp (p0);
@@ -68,14 +58,6 @@ public class GestureDetector_ScrollListener
 	}
 
 	private native boolean n_onScroll (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3);
-
-
-	public boolean onFling (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3)
-	{
-		return n_onFling (p0, p1, p2, p3);
-	}
-
-	private native boolean n_onFling (android.view.MotionEvent p0, android.view.MotionEvent p1, float p2, float p3);
 
 	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)

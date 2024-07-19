@@ -43,6 +43,20 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>MonoBundle/Esp.Resources.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XCCETtz6VvmNWe9dvlPtNO1N3l7LIUJvXdcS67wMKKk=
+			</data>
+		</dict>
+		<key>MonoBundle/Esp.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NSA1OMPA/INIMJMQCgAdjazWXcrmRBan3oKgJWt4loU=
+			</data>
+		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -190,18 +204,102 @@
 			8Ownp2/4SxrvUih9Ov/XY4PHiJ/1MuJYiA1lvNrteLM=
 			</data>
 		</dict>
+		<key>MonoBundle/Newtonsoft.Json.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ubTmM+pscoutX3y773+LhC9+EBgXMdvl7DzZlab2Aoc=
+			</data>
+		</dict>
 		<key>MonoBundle/ProsperDaily.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QPE4A0M0qN92XinpM7SWcVbupHtd+1n7nA1tw1iuNJQ=
+			usKuHYAbBCQi2I62s9nrx46344DZDhoO+GWSGPJO0dE=
 			</data>
 		</dict>
 		<key>MonoBundle/ProsperDaily.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QV+F0deNVhEaepEhNVvzFxmR4rhGjvBqlXQc8cDOetI=
+			pBoJdOvqZGDGPPiI1SflpkJokfIsiUbR1HtJpVIiZCk=
+			</data>
+		</dict>
+		<key>MonoBundle/Reloadify3000.Core.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qfhViEsaRJk4xNCy24Vwm3x4RKkzVQ7DUm910qpTRIA=
+			</data>
+		</dict>
+		<key>MonoBundle/Reloadify3000.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JVKYAx+3Fve2JgJt/Oy6Qd/YARBlLKNoQCgSs9tUCpY=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLite-net.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G0Du6FIHrGQku+Pmrey48gKNhArHSSzdTDxdZdMFkb4=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLiteNetExtensions.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ykjaxNSocRsd7GT56sejOvXLSUHDSn4rbArYg/K3MoY=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.batteries_v2.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CfW9YSGfunnLgdH6QG8jwazapaObRUXq87nPs7OG2sU=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.core.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l57cyQVqwG1fUrEtm3czsSF5FKtQvxI6sxLgJ+esV6U=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.nativelibrary.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k6kuHu1PdUyKSs86EqhbgqnTWUwFcJhnu6p9u0PbP/k=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.provider.dynamic_cdecl.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SENYZIYzSEgxejoAGYM6tuR0llXDHc9BjeXOK+k6vGc=
+			</data>
+		</dict>
+		<key>MonoBundle/Syncfusion.Licensing.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cfKLQh4rgC9eLIiZYcGNsvBhXfRGtZ4QtP6jCT+Ax/c=
+			</data>
+		</dict>
+		<key>MonoBundle/Syncfusion.Maui.Charts.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cKbRkUIGmErHrGvwuG8/juh93I8nhSDaTPfHxXMAa+s=
+			</data>
+		</dict>
+		<key>MonoBundle/Syncfusion.Maui.Core.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Iqlrvxzu4SgJmkkoWmMoSjSbj6//dmJIBEA7Xr8IXxc=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>

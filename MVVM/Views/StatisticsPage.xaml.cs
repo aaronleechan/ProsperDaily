@@ -1,4 +1,4 @@
-namespace MauiApp1;
+namespace ProsperDaily;
 
 public partial class StatisticsPage : ContentPage
 {

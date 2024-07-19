@@ -74,9 +74,21 @@
               "version": "[7.0.101, )",
               "autoReferenced": true
             },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "SQLiteNetExtensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "SQLitePCLRaw.provider.dynamic_cdecl": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
             "Syncfusion.Maui.Charts": {
               "target": "Package",
-              "version": "[26.1.42, )"
+              "version": "[20.2.50, )"
             },
             "Xamarin.Android.Glide": {
               "target": "Package",
@@ -132,6 +144,10 @@
               "target": "Package",
               "version": "[1.7.0.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -191,9 +207,25 @@
               "version": "[7.0.101, )",
               "autoReferenced": true
             },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "SQLiteNetExtensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "SQLitePCLRaw.provider.dynamic_cdecl": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
             "Syncfusion.Maui.Charts": {
               "target": "Package",
-              "version": "[26.1.42, )"
+              "version": "[20.2.50, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -253,9 +285,25 @@
               "version": "[7.0.101, )",
               "autoReferenced": true
             },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "SQLiteNetExtensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "SQLitePCLRaw.provider.dynamic_cdecl": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
             "Syncfusion.Maui.Charts": {
               "target": "Package",
-              "version": "[26.1.42, )"
+              "version": "[20.2.50, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
